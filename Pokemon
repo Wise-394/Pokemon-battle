@@ -1,0 +1,8 @@
+package test;
+
+public class Pokemon {
+	String name;
+	int hp;
+	int dmg;
+
+}
